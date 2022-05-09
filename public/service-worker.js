@@ -1,3 +1,4 @@
+console.log("hello from service worker");
 const APP_PREFIX = "BudgetTracker-";
 const VERSION = "version_01";
 const CACHE_NAME = APP_PREFIX + VERSION;
